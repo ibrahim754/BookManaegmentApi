@@ -1,0 +1,15 @@
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\bin\Debug\net8.0\BookManagment.Core.deps.json
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\bin\Debug\net8.0\BookManagment.Core.dll
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\bin\Debug\net8.0\BookManagment.Core.pdb
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\BookManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\BookManagment.Core.AssemblyInfoInputs.cache
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\BookManagment.Core.AssemblyInfo.cs
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\BookManagment.Core.csproj.CoreCompileInputs.cache
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\BookManagment.Core.sourcelink.json
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\BookManagment.Core.dll
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\refint\BookManagment.Core.dll
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\BookManagment.Core.pdb
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\ref\BookManagment.Core.dll
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\bin\Debug\net8.0\BookManagment.Core.runtimeconfig.json
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\BookManagment.Core.csproj.AssemblyReference.cache
+F:\C#\EntityFramwork\BookManagmentApi\BookManagment.Core\obj\Debug\net8.0\BookManagment.Core.genruntimeconfig.cache
