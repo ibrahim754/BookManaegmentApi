@@ -1,5 +1,6 @@
 ﻿using BookManagment.Core.Interfaces;
 using BookManagment.Core.Models.JWTModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -30,6 +31,8 @@ namespace BookManagmentApi.Controllers
 
         }
         [HttpPost("AddUserToRole")]
+        // Allow only Admin To Add Roles To any User
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> AddUserToRole(AddRoleModel Model)
         {
             string result = await _authService.AddRoleAsync(Model);

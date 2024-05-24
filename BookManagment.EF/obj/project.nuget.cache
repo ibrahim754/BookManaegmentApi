@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D3EJk6qpxE2GX3gpeU6CJzCnVgyNKmctyH1gHnD8t6m9p1XxIhrMfwFtAzb71CLMzcDv5L+3dx8jwMW3QdjZ9g==",
+  "dgSpecHash": "mtPmg/Gyd5iH+KU2eHHbl9ovgCM653POF93jaloDCvEyz6DJKMT2dSl8QPZXDnOTUYo9Q6OD7pQMBytgnhTG0w==",
   "success": true,
-  "projectFilePath": "F:\\C#\\EntityFramwork\\BookManagmentApi\\BookManagment.EF\\BookManagment.EF.csproj",
+  "projectFilePath": "D:\\Task\\BookManagmentApi\\BookManagment.EF\\BookManagment.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibrah\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

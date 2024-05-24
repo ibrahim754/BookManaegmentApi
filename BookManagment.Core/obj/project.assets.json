@@ -7764,11 +7764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\EntityFramwork\\BookManagmentApi\\BookManagment.Core\\BookManagment.Core.csproj",
+      "projectUniqueName": "D:\\Task\\BookManagmentApi\\BookManagment.Core\\BookManagment.Core.csproj",
       "projectName": "BookManagment.Core",
-      "projectPath": "F:\\C#\\EntityFramwork\\BookManagmentApi\\BookManagment.Core\\BookManagment.Core.csproj",
+      "projectPath": "D:\\Task\\BookManagmentApi\\BookManagment.Core\\BookManagment.Core.csproj",
       "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\EntityFramwork\\BookManagmentApi\\BookManagment.Core\\obj\\",
+      "outputPath": "D:\\Task\\BookManagmentApi\\BookManagment.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",

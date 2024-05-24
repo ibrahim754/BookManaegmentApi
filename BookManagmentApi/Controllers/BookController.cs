@@ -15,6 +15,7 @@ namespace BookManagmentApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
      public class BookController : ControllerBase
     {
         private readonly IBaseRep<Book> _books;
@@ -60,6 +61,7 @@ namespace BookManagmentApi.Controllers
         }
 
         [HttpPut("{id}")]
+        // the Is IsAuthonicated checks the  if the userid is the same who Created the book, or the user have an admin role, if yes then he authorized, otherwise, he can not update the book
         public async Task<IActionResult> UpdateBook(int id, UpdateBookDto bookDto)
         {
 
